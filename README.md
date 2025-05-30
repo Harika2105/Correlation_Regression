@@ -1,4 +1,5 @@
 # Correlation and regression for data analysis
+Name: S.Harika REG NO: 212224240155
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
